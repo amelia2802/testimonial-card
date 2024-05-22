@@ -12,7 +12,7 @@ function App() {
             <p className='text-sm text-secondaryColor'>@sarahdole</p>
           </section>
         </section>
-        <p className='mt-4 '>I've been searching for high-quality abstract images for my design projects, 
+        <p className='mt-4 text-secondaryColor'>I've been searching for high-quality abstract images for my design projects, 
       and I'm thrilled to have found this platform. The variety and depth of creativity are astounding!</p>
       </section>
 
